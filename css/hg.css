@@ -11403,7 +11403,7 @@ white-space: normal !important;
     display: none !important;
   }
 }
-button.bt-slide {
+.bt-slide {
     box-sizing: content-box;
     flex: 0 1 auto;
     width: 30px;
