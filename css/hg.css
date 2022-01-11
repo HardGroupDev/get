@@ -6301,24 +6301,6 @@ text-decoration: none;
 	left: 10%;
 	right: 10%;
 }
-.bt-slide {
-    box-sizing: content-box;
-    flex: 0 1 auto;
-    width: 30px;
-    height: 3px;
-    padding: 0;
-    margin-right: 3px;
-    margin-left: 3px;
-    text-indent: -999px;
-    cursor: pointer;
-    background-color: #115199;
-    background-clip: padding-box;
-    border: 0;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    opacity: 1;
-    transition: opacity .6s ease;
-}
 @media (min-width: 576px){
   .container-sm, .container {
     max-width: 540px;
