@@ -11403,9 +11403,9 @@ white-space: normal !important;
     display: none !important;
   }
 }
-a.btn-cp {
+.btn-cp{
     background: #00a99d;
-    color: #FFF;
+    color: #fff;
     padding: 7px;
     border-radius: 3px;
 }
